@@ -2,7 +2,7 @@
 
 ![Badge de Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=1E90FF&style=for-the-badge)
 
-Repositório do Projeto de Extensão, 1º Semestre.
+Repositório do Projeto de Extensão, 2º Semestre.
 
 ## Autores
 
